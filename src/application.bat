@@ -1,4 +1,4 @@
-### application.bat - 201x - votre Reigner ###
+### application.bat - 201x - Samy Moussaoui ###
 version = "2"
 build_hour = "11H00"
 
